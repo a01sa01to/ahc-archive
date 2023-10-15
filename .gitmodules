@@ -1,0 +1,12 @@
+[submodule "ahc018"]
+	path = ahc018
+	url = https://github.com/a01sa01to/ahc018.git
+[submodule "ahc019"]
+	path = ahc019
+	url = https://github.com/a01sa01to/ahc019.git
+[submodule "ahc022"]
+	path = ahc022
+	url = https://github.com/a01sa01to/ahc022.git
+[submodule "ahc023"]
+	path = ahc023
+	url = https://github.com/a01sa01to/ahc023.git
