@@ -10,3 +10,6 @@
 [submodule "ahc023"]
 	path = ahc023
 	url = https://github.com/a01sa01to/ahc023.git
+[submodule "ahc025"]
+	path = ahc025
+	url = https://github.com/a01sa01to/ahc025.git
