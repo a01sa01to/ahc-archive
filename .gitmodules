@@ -19,3 +19,6 @@
 [submodule "ahc029"]
 	path = ahc029
 	url = https://github.com/a01sa01to/ahc029.git
+[submodule "template"]
+	path = template
+	url = https://github.com/a01sa01to/marathon-template.git
