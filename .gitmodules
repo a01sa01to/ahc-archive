@@ -16,3 +16,6 @@
 [submodule "ahc027"]
 	path = ahc027
 	url = https://github.com/a01sa01to/ahc027.git
+[submodule "ahc029"]
+	path = ahc029
+	url = https://github.com/a01sa01to/ahc029.git
